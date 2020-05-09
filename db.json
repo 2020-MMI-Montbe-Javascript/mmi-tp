@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "name": "Koba LaD",
+            "job": "Rappeur",
+            "description": "Koba LaD, de son vrai nom Marcel Junior Loutarila, est un rappeur français né le 3 avril 2000. Son nom de scène est inspiré par le personnage de fiction Koba issu de la saga La Planète des singes, « LaD » signifie « la débrouille, la détaille, la défonce »",
+            "slug": "koba",
+            "song": {
+                "title": "Cellophané",
+                "preview": "https://p.scdn.co/mp3-preview/e71724a2fe72e6fced2230a60db3acd36f86b924?cid=774b29d4f13844c495f206cafdad9c86"
+            }
+        },
+        {
+            "name": "Niska",
+            "job": "Rappeur",
+            "description": "Niska, nom de scène de Stanislas Dinga Pinto, est un rappeur français né le 6 avril 1994 à Villeneuve-Saint-Georges, et ayant grandi à Évry, en Essonne.",
+            "slug": "niska",
+            "song": {
+                "title": "Bâtiment",
+                "preview": "https://p.scdn.co/mp3-preview/f525569eed11c9d30ad6a3473e31d3cb2c68e335?cid=774b29d4f13844c495f206cafdad9c86"
+            }
+        },
+        {
+            "name": "PLK",
+            "job": "Rappeur",
+            "description": "PLK (sigle de Polak), de son vrai nom Mathieu Pruski, né le 15 avril 1997, est un rappeur français. Il est membre des groupes Panama Bende et La Confrérie",
+            "slug": "plk",
+            "song": {
+                "title": "Un peu de haine",
+                "preview": "https://p.scdn.co/mp3-preview/2b43b29d4669315c19059c018f8c7560f6cff680?cid=774b29d4f13844c495f206cafdad9c86"
+            }
+        }
+    ]
+}
